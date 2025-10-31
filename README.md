@@ -14,7 +14,7 @@ Visit: https://jeffbaumes.github.io/water-ring-toss-support
 
 ## 📧 Contact
 
-For support inquiries: jeff@baumes.org
+For support inquiries: jeffbaumesqa@gmail.com
 
 ## 🔧 Local Development
 
